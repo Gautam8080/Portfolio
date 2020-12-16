@@ -208,7 +208,7 @@ nav {
 
 .main-message {
   width: 100%;
-  /* max-width: 58rem; */
+  max-width: 58rem;
   text-transform: uppercase;
   position: absolute;
   left: 50%;
@@ -221,9 +221,9 @@ nav {
   letter-spacing: 1.2rem;
   font-size: 2rem;
   font-weight: 400;
-  overflow: hidden;
+  /* overflow: hidden; */
   white-space: nowrap;
-  animation: typing 5s steps(27), blink 1s ease-in-out 7s infinite;
+  animation: typing 5s steps(29), blink 1s ease-in-out 7s infinite;
   width: 27ch;
   margin: auto;
   border-right: 4px solid rgba(255, 255, 255, 1);
