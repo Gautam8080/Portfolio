@@ -335,8 +335,8 @@ nav {
 
 .about-text-box h2 {
   font-size: 4rem;
-  margin-bottom: 20px;
-  width: 115%;
+  margin-bottom: 3rem;
+  width: 117%;
 }
 
 .about-text-box p {
@@ -380,6 +380,7 @@ hr {
 .title-heading p {
   font-family: "Poppins", sans-serif;
   margin-bottom: 5rem;
+  font-style: italic;
 }
 
 .service-tiers {
@@ -586,10 +587,6 @@ footer a {
   .btn {
     border-radius: 0.9rem;
     padding: 0.9rem 0.9rem;
-  }
-  .about-text-box h2 {
-    font-size: 3rem;
-    margin-bottom: 20px;
   }
   .about-text-box p {
     margin: 0 0 2.45rem;
