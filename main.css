@@ -380,6 +380,7 @@ hr {
 .title-heading p {
   font-family: "Poppins", sans-serif;
   margin-bottom: 5rem;
+  font-style: italic;
 }
 
 .service-tiers {
@@ -470,6 +471,7 @@ hr {
 .project-description p {
   font-family: "Poppins", sans-serif;
   font-size: 1.4rem;
+  margin-bottom: 1.45rem;
 }
 
 .project-link {
