@@ -400,7 +400,7 @@ hr {
 }
 
 .tier-item i {
-  font-size: 3.5rem;
+  font-size: 6.5rem;
 }
 
 .tier-item h2 {
@@ -450,7 +450,7 @@ hr {
 
 .project-description h2 {
   font-size: 2rem;
-  margin: 2rem 0;
+  margin: 2rem 0 0rem;
   background: linear-gradient(
     to right,
     rgba(249, 105, 14, 1) 0%,
@@ -458,6 +458,12 @@ hr {
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+}
+
+.project-description h2 {
+  margin-bottom: 2rem;
+  font: unset;
 }
 
 .project-description p {
@@ -590,7 +596,7 @@ footer a {
   }
 
   .title-heading h2 {
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
   }
   .title-heading p {
     font-size: 1.3rem;
