@@ -265,6 +265,7 @@ nav {
 .main-message p {
   text-transform: none;
   font-size: 1.7rem;
+  color: black;
   font-weight: 400;
 }
 
