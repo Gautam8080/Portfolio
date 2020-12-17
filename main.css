@@ -293,7 +293,7 @@ nav {
 }
 
 .scroll-down i {
-  color: #fafafa;
+  /* color: #fafafa; */
   transition: color 650ms;
   margin-top: 2rem;
   font-size: 3.5rem;
