@@ -335,6 +335,7 @@ nav {
 .about-text-box h2 {
   font-size: 4rem;
   margin-bottom: 20px;
+  width: 115%;
 }
 
 .about-text-box p {
