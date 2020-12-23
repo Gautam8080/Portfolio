@@ -443,6 +443,7 @@ hr {
 }
 
 .project-img {
+  text-align: center;
   flex: 1;
 }
 
